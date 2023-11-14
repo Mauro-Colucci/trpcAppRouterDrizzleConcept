@@ -6,4 +6,4 @@ export const appRouter = router({
   }),
 });
 
-export typer AppRouter = typeof appRouter
+export type AppRouter = typeof appRouter;
